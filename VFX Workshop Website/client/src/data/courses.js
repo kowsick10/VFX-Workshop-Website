@@ -1,0 +1,142 @@
+export const COURSES = [
+  {
+    id: "ai-video-creation",
+    title: "AI Video Creation",
+    tagline: "Turn ideas into stunning AI videos",
+    duration: "30 DAYS",
+    schedule: "Weekend Batches / Flexible",
+    fee: 6999,
+    originalFee: 10000,
+    isPlaceholderFee: true,
+    category: "Creative Tech & AI",
+    badge: "Trending Program",
+    image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    description: "Learn to generate cinema-quality visuals, character designs, prompts, and cinematic AI sequences using cutting-edge generative tools and workflows.",
+    highlights: [
+      "Generative AI video workflows",
+      "Prompt crafting & style control",
+      "Storyboarding & sequence creation",
+      "Practical project portfolio"
+    ]
+  },
+  {
+    id: "animation",
+    title: "2D & 3D Animation",
+    tagline: "Imagine. Animate. Inspire.",
+    duration: "30 DAYS",
+    schedule: "Weekend Batches / School Holidays",
+    fee: 7999,
+    originalFee: 12000,
+    isPlaceholderFee: true,
+    category: "Animation & VFX",
+    badge: "Student Favorite",
+    image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    description: "Master core animation principles, timing, digital character design, and 3D modeling fundamentals guided by real studio mentors.",
+    highlights: [
+      "12 Principles of Animation",
+      "Character rigging & keyframing",
+      "3D environment basics",
+      "Complete short film scene"
+    ]
+  },
+  {
+    id: "video-editing",
+    title: "Video Editing & Post-Production",
+    tagline: "Edit with precision. Tell powerful stories.",
+    duration: "30 DAYS",
+    schedule: "Weekdays or Weekends",
+    fee: 5999,
+    originalFee: 9000,
+    isPlaceholderFee: true,
+    category: "Post-Production",
+    badge: "Essential Skill",
+    image: "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=800&q=80",
+    description: "Learn professional video editing techniques, pacing, transitions, color grading, sound design, and exporting for YouTube, film, and social media.",
+    highlights: [
+      "Industry timeline editing workflows",
+      "Audio mixing & sound effects",
+      "Color grading & LUT applications",
+      "Hands-on editing suite practice"
+    ]
+  },
+  {
+    id: "cinematography",
+    title: "Cinematography & Camera Arts",
+    tagline: "Master the art of cinematic storytelling.",
+    duration: "30 DAYS",
+    schedule: "Weekend Batches",
+    fee: 8999,
+    originalFee: 14000,
+    isPlaceholderFee: true,
+    category: "Filmmaking",
+    badge: "Studio Floor Practice",
+    image: "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=800&q=80",
+    description: "Understand camera angles, composition, 3-point lighting setups, lens choices, and camera movement in our live Chennai studio facility.",
+    highlights: [
+      "Studio camera operations & lenses",
+      "Professional 3-point lighting",
+      "Shot composition & framing",
+      "Live studio shoot sessions"
+    ]
+  },
+  {
+    id: "photography",
+    title: "Photography & Digital Arts",
+    tagline: "Capture moments. Create stories.",
+    duration: "30 DAYS",
+    schedule: "Weekends / School Holidays",
+    fee: 4999,
+    originalFee: 8000,
+    isPlaceholderFee: true,
+    category: "Visual Arts",
+    badge: "Creative Foundation",
+    image: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    description: "From aperture and shutter speed to composition and digital retouching, build an eye for framing and capture breathtaking photos.",
+    highlights: [
+      "Exposure triangle & manual mode",
+      "Portrait and product photography",
+      "Lightroom color corrections",
+      "Curated student photo portfolio"
+    ]
+  },
+  {
+    id: "videography",
+    title: "Videography & YouTube Creation",
+    tagline: "Shoot. Direct. Bring your vision to life.",
+    duration: "30 DAYS",
+    schedule: "Weekend Batches",
+    fee: 6499,
+    originalFee: 9500,
+    isPlaceholderFee: true,
+    category: "Filmmaking",
+    badge: "Creator Track",
+    image: "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&w=800&q=80",
+    description: "Learn to conceptualize, shoot, and direct compelling videos, vlogs, and short films with modern gimbals, mics, and mirrorless setups.",
+    highlights: [
+      "Mobile & camera rig stabilization",
+      "Lapel & shotgun audio recording",
+      "Directing & interview setups",
+      "Hands-on studio shoot"
+    ]
+  },
+  {
+    id: "ai-digital-marketing",
+    title: "AI Digital Marketing for Creators",
+    tagline: "Use AI to market, grow & scale.",
+    duration: "30 DAYS",
+    schedule: "Weekend Batches",
+    fee: 5499,
+    originalFee: 8500,
+    isPlaceholderFee: true,
+    category: "Digital Media",
+    badge: "Future Ready",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+    description: "Harness AI to create viral content, design engaging posters, craft copy, analyze audience trends, and build an online presence.",
+    highlights: [
+      "AI content generation strategies",
+      "Social media brand building",
+      "Poster & thumbnail design",
+      "Audience analytics & outreach"
+    ]
+  }
+];
